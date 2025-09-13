@@ -180,7 +180,7 @@ Feel free to submit issues, suggestions, or pull requests to improve the applica
 
 ## License
 
-This project is open source. Feel free to modify and distribute as needed.
+This project is open source. Just mention my name and feel free to modify and distribute as needed.
 
 ---
 
