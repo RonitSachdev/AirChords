@@ -412,16 +412,16 @@ class ChordEditor:
     
     def trigger_gesture_chord(self, chord_number):
         """Trigger a chord based on gesture"""
-        print(f"Gesture trigger: current={self.currently_playing_chord}, new={chord_number}")
+        # print(f"Gesture trigger: current={self.currently_playing_chord}, new={chord_number}")
         
         # Always stop current chord first if there is one
         if self.currently_playing_chord != 0:
-            print(f"Stopping current chord {self.currently_playing_chord}")
+            # print(f"Stopping current chord {self.currently_playing_chord}")
             self.midi_controller.stop_chord(self.currently_playing_chord)
             self.currently_playing_chord = 0
         
         if 1 <= chord_number <= 5:
-            print(f"Starting new chord {chord_number}")
+            # print(f"Starting new chord {chord_number}")
             # Start new chord
             self.midi_controller.play_chord(chord_number)
             self.currently_playing_chord = chord_number
