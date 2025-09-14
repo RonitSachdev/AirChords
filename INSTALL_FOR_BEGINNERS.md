@@ -1,7 +1,5 @@
 # 🎹 Air MIDI - Easy Installation Guide for Mac
 
-**Created by Ronit Sachdev**
-
 This guide will help you install and run Air MIDI on your Mac, even if you've never used programming tools before!
 
 ## ⏱️ Time Required
