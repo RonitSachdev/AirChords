@@ -174,7 +174,7 @@ If you run into issues:
 1. **Check the error message** in Terminal - it usually tells you what's wrong
 2. **Try restarting Terminal** and running the commands again
 3. **Make sure your camera isn't being used** by other apps (Zoom, FaceTime, etc.)
-4. **Contact Ronit Sachdev** - the creator can help troubleshoot!
+4. **Contact Me** - hie I will help!
 
 ---
 
@@ -182,8 +182,4 @@ If you run into issues:
 
 You're now ready to create music with your hands! Air MIDI uses advanced computer vision to detect your finger gestures and turn them into beautiful chord progressions.
 
-**Created by Ronit Sachdev** - Enjoy making music with innovative gesture control! 🎹✨
-
 ---
-
-*This installation guide is designed for complete beginners. Each step is carefully explained to ensure success!*
