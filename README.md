@@ -1,6 +1,7 @@
 # Air MIDI - Hand Gesture Chord Controller
 
 A Python application that uses computer vision to detect hand gestures and trigger MIDI chords in real-time. Control your music with just your hands!
+<img width="816" height="639" alt="Screenshot 2025-09-13 at 13 32 36" src="https://github.com/user-attachments/assets/6ce337c0-56a8-41f4-afc9-aac46e9213c7" />
 
 ## Features
 
